@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/6/22 12:13 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/6/28 12:15 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
-There are `47 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `48 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -108,20 +108,6 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/habeshahome">
-				<img src="https://avatars.githubusercontent.com/u/21142494?s=72&u=30a9e41a6b4120f358afb6d8e8749a59e24ab6ef&v=4" width="24" alt="Avatar of habeshahome"> habeshahome
-			</a><br/>
-			Bamlak Kemaw
-		</td>
-		<td>@qintot @website-et @epicgames <br/></td>
-		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
-		<td>Dubai, UAE</td>
-		<td>164</td>
-		<td>173</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>
 			<a href="https://github.com/genesisneo">
 				<img src="https://avatars.githubusercontent.com/u/2639011?s=72&v=4" width="24" alt="Avatar of genesisneo"> genesisneo
 			</a><br/>
@@ -131,7 +117,21 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>10</td>
-		<td>168</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
+			<a href="https://github.com/habeshahome">
+				<img src="https://avatars.githubusercontent.com/u/21142494?s=72&u=30a9e41a6b4120f358afb6d8e8749a59e24ab6ef&v=4" width="24" alt="Avatar of habeshahome"> habeshahome
+			</a><br/>
+			Bamlak Kemaw
+		</td>
+		<td>@qintot @website-et @epicgames <br/></td>
+		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
+		<td>Dubai, UAE</td>
+		<td>149</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td><a href="https://twitter.com/arbaaz919">arbaaz919</a></td>
 		<td>Dubai</td>
 		<td>0</td>
-		<td>56</td>
+		<td>54</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>50</td>
-		<td>50</td>
+		<td>49</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -186,8 +186,8 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>26</td>
-		<td>26</td>
+		<td>21</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -214,8 +214,8 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>9</td>
-		<td>9</td>
+		<td>14</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -318,6 +318,20 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>16</td>
 		<td>
+			<a href="https://github.com/eaf-uae">
+				<img src="https://avatars.githubusercontent.com/u/137379053?s=72&u=d550b7819dde2adcbfa10a253460d85d905fc2a8&v=4" width="24" alt="Avatar of eaf-uae"> eaf-uae
+			</a><br/>
+			Emirates Aerosports Federation
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
 			<a href="https://github.com/AscentEmirates">
 				<img src="https://avatars.githubusercontent.com/u/127314842?s=72&v=4" width="24" alt="Avatar of AscentEmirates"> AscentEmirates
 			</a><br/>
@@ -330,7 +344,7 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/Bunnyangel789">
 				<img src="https://avatars.githubusercontent.com/u/124781445?s=72&v=4" width="24" alt="Avatar of Bunnyangel789"> Bunnyangel789
@@ -344,7 +358,7 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/multiwo">
 				<img src="https://avatars.githubusercontent.com/u/132578717?s=72&v=4" width="24" alt="Avatar of multiwo"> multiwo
@@ -354,20 +368,6 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Multiwood </td>
 		<td>No Twitter Username</td>
 		<td>dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/scottwebarchitect">
-				<img src="https://avatars.githubusercontent.com/u/118509490?s=72&u=1d8fd48aa2941bee0293756ba0ea39826642183d&v=4" width="24" alt="Avatar of scottwebarchitect"> scottwebarchitect
-			</a><br/>
-			Scott Web Architect
-		</td>
-		<td>Budget Web Ae </td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -388,6 +388,20 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>21</td>
 		<td>
+			<a href="https://github.com/scottwebarchitect">
+				<img src="https://avatars.githubusercontent.com/u/118509490?s=72&u=1d8fd48aa2941bee0293756ba0ea39826642183d&v=4" width="24" alt="Avatar of scottwebarchitect"> scottwebarchitect
+			</a><br/>
+			Scott Web Architect
+		</td>
+		<td>Budget Web Ae </td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
 			<a href="https://github.com/desersafari">
 				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
 			</a><br/>
@@ -400,7 +414,7 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/moverandpackers">
 				<img src="https://avatars.githubusercontent.com/u/137296488?s=72&v=4" width="24" alt="Avatar of moverandpackers"> moverandpackers
@@ -414,7 +428,7 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/desertsafardubai3185">
 				<img src="https://avatars.githubusercontent.com/u/120096922?s=72&v=4" width="24" alt="Avatar of desertsafardubai3185"> desertsafardubai3185
@@ -428,7 +442,7 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/sagargusaiwal">
 				<img src="https://avatars.githubusercontent.com/u/127839845?s=72&u=947ec5b5ead0928854f2804e5af9077868d9d744&v=4" width="24" alt="Avatar of sagargusaiwal"> sagargusaiwal
