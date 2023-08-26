@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2023/8/20 12:10 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2023/8/26 6:08 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -133,19 +133,6 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>3</td>
 		<td>
-			<a href="https://github.com/rahulraj2">
-				<img src="https://avatars.githubusercontent.com/u/40715480?s=72&u=92f52191c12ba06dab800c6db2a213dcafcbab1e&v=4" width="24" alt="Avatar of rahulraj2"> rahulraj2
-			</a><br/>
-			Rahul Raj
-		</td>
-		<td>Emirates Nbd </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>
 			<a href="https://github.com/Liyanasia">
 				<img src="https://avatars.githubusercontent.com/u/120124514?s=72&u=3cc620f96ec6d3fad9d77da6586dcbeb7c91a492&v=4" width="24" alt="Avatar of Liyanasia"> Liyanasia
 			</a><br/>
@@ -157,7 +144,7 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>4</td>
 		<td>
 			<a href="https://github.com/umar4sap">
 				<img src="https://avatars.githubusercontent.com/u/10072811?s=72&u=a738b24a09ae40b7d5efdffd912e8cb56afe6cd6&v=4" width="24" alt="Avatar of umar4sap"> umar4sap
@@ -168,6 +155,19 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>25</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/rahulraj2">
+				<img src="https://avatars.githubusercontent.com/u/40715480?s=72&u=92f52191c12ba06dab800c6db2a213dcafcbab1e&v=4" width="24" alt="Avatar of rahulraj2"> rahulraj2
+			</a><br/>
+			Rahul Raj
+		</td>
+		<td>Emirates Nbd </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>24</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -263,19 +263,6 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/Nagaraju-Y">
-				<img src="https://avatars.githubusercontent.com/u/30878609?s=72&u=a9be069f6f17872f17851376b5e570b70c493f0e&v=4" width="24" alt="Avatar of Nagaraju-Y"> Nagaraju-Y
-			</a><br/>
-			Nagaraju Y
-		</td>
-		<td>Emirates </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
 			<a href="https://github.com/emiratesproperties">
 				<img src="https://avatars.githubusercontent.com/u/126855011?s=72&v=4" width="24" alt="Avatar of emiratesproperties"> emiratesproperties
 			</a><br/>
@@ -287,7 +274,7 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/AscentEmirates">
 				<img src="https://avatars.githubusercontent.com/u/127314842?s=72&v=4" width="24" alt="Avatar of AscentEmirates"> AscentEmirates
@@ -300,12 +287,25 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/eaf-uae">
 				<img src="https://avatars.githubusercontent.com/u/137379053?s=72&u=d550b7819dde2adcbfa10a253460d85d905fc2a8&v=4" width="24" alt="Avatar of eaf-uae"> eaf-uae
 			</a><br/>
 			Emirates Aerosports Federation
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/ByteBypass">
+				<img src="https://avatars.githubusercontent.com/u/142845561?s=72&u=bbfd47beaca524f1f84cd2506d94a9a0300daeb5&v=4" width="24" alt="Avatar of ByteBypass"> ByteBypass
+			</a><br/>
+			Ahmed Hossameldin Attala
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -414,19 +414,6 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@platinum007 </td>
 		<td>No Twitter Username</td>
 		<td> Office 74-2902 Marina Plaza, Dubai Marina, Dubai, UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/MultiWOOD346">
-				<img src="https://avatars.githubusercontent.com/u/141914076?s=72&u=7ba5e85ffaec41e05fa67a8072ef9c4b10fa973a&v=4" width="24" alt="Avatar of MultiWOOD346"> MultiWOOD346
-			</a><br/>
-			Multi Wood2345
-		</td>
-		<td>Multi Wood </td>
-		<td><a href="https://twitter.com/multiwood_ae">multiwood_ae</a></td>
-		<td>Sharjah, Al Nahda, Al Nahda Sahara Plaza, C Block, 2204, Dubai Dubai, United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 </table>
